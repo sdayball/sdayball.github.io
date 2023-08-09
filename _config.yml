@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - cs499 Milestone 4 Narrative.docx
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
