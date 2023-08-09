@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ePortfolio"
+title                    : "Portfolio"
 title_separator          : "-"
 subtitle                 : "Sam Dayball's official portfolio"
 name                     : "Sam Dayball"
