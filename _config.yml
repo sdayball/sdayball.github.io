@@ -257,7 +257,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-https://github.com/sdayball.github.io
+# https://github.com/sdayball.github.io
 # jekyll-archives:
 #   enabled:
 #     - categories
