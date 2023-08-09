@@ -109,6 +109,7 @@ author:
   bio              : "This is my official Portfolio."
   location         : "Dallas, TX"
   links:
+  email:           
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sdayball@yahoo.com
