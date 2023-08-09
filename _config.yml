@@ -135,6 +135,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - Milestone 4 Narrative.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
