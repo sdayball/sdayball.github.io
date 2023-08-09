@@ -106,10 +106,10 @@ analytics:
 author:
   name             : "Sam Dayball"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is my official Portfolio."
+  bio              : "This is my official CS Portfolio."
   location         : "Dallas, TX"
   email            : 
-  links:        
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:sdayball@yahoo.com
